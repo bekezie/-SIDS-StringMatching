@@ -1,6 +1,6 @@
 # StringMatching
 
-Instructions to run RSA String Matching:
+# Instructions to run The Rabin-Karp String Matching:
 
 We have a list of files ordered from 1 - 9 that you can send to a host.
 You will select 1 of the 9 files. From there the search function will
