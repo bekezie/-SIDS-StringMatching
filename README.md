@@ -1,4 +1,4 @@
-# StringMatching
+# (SIDS)StringMatching
 
 # Instructions to run The Rabin-Karp String Matching:
 
